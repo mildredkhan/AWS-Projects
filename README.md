@@ -168,14 +168,4 @@ Generally S3 cannot offer the same performance or semantics as a local file syst
 * [s3ql](https://github.com/s3ql/s3ql/) - similar to s3fs but uses its own object format
 * [YAS3FS](https://github.com/danilop/yas3fs) - similar to s3fs but uses SNS to allow multiple clients to mount a bucket
 
-## Frequently Asked Questions
 
-* [FAQ wiki page](https://github.com/s3fs-fuse/s3fs-fuse/wiki/FAQ)
-* [s3fs on Stack Overflow](https://stackoverflow.com/questions/tagged/s3fs)
-* [s3fs on Server Fault](https://serverfault.com/questions/tagged/s3fs)
-
-## License
-
-Copyright (C) 2010 Randy Rizun <rrizun@gmail.com>
-
-Licensed under the GNU GPL version 2
